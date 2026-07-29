@@ -11,6 +11,9 @@ Este workshop intensivo está diseñado para estudiantes interesados en **Scient
 * **Horario:** 09:00 - 17:00 hrs
 * **Lugar:** Campus San Joaquín, Pontificia Universidad Católica de Chile (UC)
 
+## 📝 Inscripción
+Los cupos son limitados. Asegura tu lugar completando el formulario:
+[**👉 Formulario de Inscripción**](https://forms.cloud.microsoft/r/v699TKSPW0) 
 ---
 
 ## 🕒 Cronograma de Actividades
@@ -37,9 +40,7 @@ Para la sesión de la tarde, se requiere computador personal. Trabajaremos en **
 
 Se recomienda tener instaladas las librerías científicas estándar de Python antes del evento.
 
-## 📝 Inscripción
-Los cupos son limitados. Asegura tu lugar completando el formulario:
-[**👉 Formulario de Inscripción**](#) *(Reemplaza este # con el link de tu Google Form)*
+
 
 ---
 **Comité Organizador:**
