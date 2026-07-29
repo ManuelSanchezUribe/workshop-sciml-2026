@@ -43,4 +43,7 @@ Los cupos son limitados. Asegura tu lugar completando el formulario:
 
 ---
 **Comité Organizador:**
-* Linea de investigacion RL4
+* Paula Aguirre, Federico Fuentes, Benjamín Herrmann, Pedro Saa, Francisco Sahli, Manuel A. Sánchez, Carlos Sing-Long
+
+**Eventos anteriores**
+https://sites.google.com/ing.puc.cl/wosciml2022/home
