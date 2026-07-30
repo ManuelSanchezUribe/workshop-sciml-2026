@@ -4,10 +4,10 @@
 # Información Principal
 title: Workshop on Scientific Machine Learning.
 description: Workshop organizado por CENIA.
-# theme: jekyll-theme-modernist 
+theme: jekyll-theme-modernist 
 # theme: jekyll-theme-architect
 # theme: jekyll-theme-minimal
-theme: jekyll-theme-TeXt
+# theme: jekyll-theme-TeXt
 # Metadatos del Evento y SEO (Ideal para cuando compartas el link por WhatsApp o Correo)
 author: "Manuel A. Sánchez"
 affiliation: "Instituto de Ingeniería Matemática y Computacional (IMC), UC"
