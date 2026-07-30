@@ -49,3 +49,10 @@ Se recomienda tener instaladas las librerías científicas estándar de Python a
 
 **Eventos anteriores**
 https://sites.google.com/ing.puc.cl/wosciml2022/home
+
+
+<div align="center">
+  <img src="assets/logo-uc.png" alt="Logo UC" height="80" style="margin-right: 40px;">
+  <img src="assets/logo-cenia.png" alt="Logo CENIA" height="80">
+</div>
+<br>
