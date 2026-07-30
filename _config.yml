@@ -2,11 +2,11 @@
 
 
 # Información Principal
-title: Workshop on Scientific Machine Learning.
-description: Workshop organizado por CENIA.
-theme: jekyll-theme-modernist 
+title: WoSciML.
+description: Workshop organizado por CENIA-RL4.
+# theme: jekyll-theme-modernist 
 # theme: jekyll-theme-architect
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 # theme: jekyll-theme-TeXt
 # Metadatos del Evento y SEO (Ideal para cuando compartas el link por WhatsApp o Correo)
 author: "Manuel A. Sánchez"
