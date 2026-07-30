@@ -14,7 +14,7 @@ Este workshop intensivo está diseñado para estudiantes interesados en **Scient
 ## 📝 Inscripción
 Los cupos son limitados. Asegura tu lugar completando el formulario:
 [**👉 Formulario de Inscripción**](https://forms.cloud.microsoft/r/v699TKSPW0) 
-<iframe width="640px" height="480px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=-tn1Xz_4wUqk0utI6goA0j_oGcUTK6lKhykIZYbAmzNUODAyTUc1WVZGTjlGODlUOUlBVDVOUEFSSS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 ---
 
 ## 🕒 Cronograma de Actividades
