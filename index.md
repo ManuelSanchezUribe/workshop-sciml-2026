@@ -1,7 +1,4 @@
-# WoSciML
 ## Workshop on Scientific Machine Learning
-
-
 
 ###  Sobre el Evento
 Este workshop intensivo está diseñado para estudiantes interesados en **Scientific Machine Learning (SciML)**. Contaremos con la participación de destacados investigadores del **Centro Nacional de Inteligencia Artificial (CENIA)**, quienes presentarán avances recientes, seguidos de un minicurso aplicado donde implementaremos Redes Neuronales Informadas por la Física (PINNs) para la resolución de problemas modelados por ecuaciones diferenciales.
