@@ -1,3 +1,26 @@
+
+
+
+# Información Principal
 title: Workshop on Scientific Machine Learning.
 description: Workshop organizado por CENIA.
-theme: jekyll-theme-cayman
+theme: jekyll-theme-modernist 
+# jekyll-theme-architect
+# jekyll-theme-minimal
+
+# Metadatos del Evento y SEO (Ideal para cuando compartas el link por WhatsApp o Correo)
+author: "Manuel A. Sánchez"
+affiliation: "Instituto de Ingeniería Matemática y Computacional (IMC), UC"
+url: "" # Deja esto vacío, GitHub Pages lo llenará automáticamente
+
+# Limpieza de la Interfaz (Elimina los botones de repositorio de código)
+show_downloads: false
+github:
+  is_project_page: false
+  is_user_page: true
+
+# Configuración de idioma para los motores de búsqueda
+lang: es-CL
+
+# Integración con Google Analytics (Opcional: Descomentar y añadir el ID si deseas medir visitas)
+# google_analytics: UA-000000-0
