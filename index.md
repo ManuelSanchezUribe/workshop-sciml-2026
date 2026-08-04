@@ -1,7 +1,7 @@
 ## Workshop on Scientific Machine Learning
 
 ###  Sobre el Evento
-Este workshop intensivo está diseñado para estudiantes interesados en **Scientific Machine Learning (SciML)**. Contaremos con la participación de destacados investigadores del **Centro Nacional de Inteligencia Artificial (CENIA)**, quienes presentarán avances recientes, seguidos de un minicurso aplicado donde implementaremos Redes Neuronales Informadas por la Física (PINNs) para la resolución de problemas modelados por ecuaciones diferenciales.
+Este workshop de un día está diseñado para estudiantes interesados en **Scientific Machine Learning (SciML)**. Contaremos con la participación de destacados investigadores del **Centro Nacional de Inteligencia Artificial (CENIA)**, quienes presentarán avances recientes, seguidos de un minicurso aplicado donde implementaremos Redes Neuronales Informadas por la Física (PINNs) para la resolución de problemas modelados por ecuaciones diferenciales.
 
 ## 🗓️ Detalles Clave
 * **Fecha:** Viernes, 28 de agosto de 2026
@@ -18,18 +18,20 @@ Los cupos son limitados. Asegura tu lugar completando el formulario:
 
 | Hora | Actividad | Detalle |
 | :--- | :--- | :--- |
-| **09:00 - 09:30** | Palabras de Apertura | Bienvenida e introducción a la linea de investigacion RL4. |
-| **10:00 - 10:30** | **Charla 1:**  | (Investigador CENIA) |
-| **10:30 - 11:00** | *Coffee Break* | Espacio para interactuar con los expositores. |
-| **11:00 - 11:30** | **Charla 2:**  | (Investigador CENIA) |
-| **11:30 - 12:15** | Charla de estudiante y Sesión de Preguntas y Oportunidades | Discusión abierta sobre proyectos de investigación para estudiantes. |
-| **12:30 - 13:30** | *Almuerzo * | - |
-| **13:30 - 14:30** | **Minicurso Aplicado (Parte I):**  |  |
-| **14:30 - 15:00** | *Coffee Break* | - |
-| **15:00 - 16:00** | **Minicurso Aplicado (Parte II):** |  |
-| **16:00 - 16:30** | **Charla 3** |
-| **16:30 - 17:00** | **Charla 4** |
-| **17:00 - 17:15** | Cierre y Conclusiones | Próximos pasos y cierre del evento. |
+| **09:00 - 09:15** | Palabras de Apertura | Bienvenida e introducción a la linea de investigacion RL4. |
+| **09:15 - 10:00** | **Charla Keynote:**  |  |
+| **10:00 - 10:30** | **Charla 1 Inv. RL4**  |  |
+| **10:30 - 11:00** | *Coffee Break*  | Espacio para interactuar con expositores |
+| **11:00 - 11:30** | **Charla 2 Inv. RL4**  |  |
+| **11:30 - 12:00** | **Charla 3 Inv. RL4**  |  |
+| **12:00 - 12:20** | **Charla Oportunidades de Investigación RL4**  |  |
+| **12:30 - 13:30** | *Almuerzo* | - |
+| **13:30 - 15:30** | **Minicurso:**  | Benjamín |
+| **15:00 - 15:00** | *Coffee Break* | - |
+| **15:00 - 15:30** | **Minicurso Aplicado (Parte II):** |  |
+| **15:30 - 16:00** | **Charla 4 Inv. RL4** |
+| **16:00 - 16:30** | **Charla Estudiantes** |
+| **16:30 - 16:45** | **Cierre y Conclusiones]] | Próximos pasos y cierre del evento. |
 
 ---
 
