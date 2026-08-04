@@ -1,12 +1,12 @@
 ## Workshop on Scientific Machine Learning
 
 ###  Sobre el Evento
-Este workshop de un día está diseñado para estudiantes interesados en **Scientific Machine Learning (SciML)**. Contaremos con la participación de destacados investigadores del **Centro Nacional de Inteligencia Artificial (CENIA)**, quienes presentarán avances recientes, seguidos de un minicurso aplicado donde implementaremos Redes Neuronales Informadas por la Física (PINNs) para la resolución de problemas modelados por ecuaciones diferenciales.
+Este workshop de un día está diseñado para estudiantes interesados en investigación en el área de **Scientific Machine Learning (SciML)**. Contaremos con la participación de destacados investigadores y colaboradores de la línea de investigación **Aprendizaje Basado en la Física** del **Centro Nacional de Inteligencia Artificial (CENIA)**, quienes presentarán avances recientes. Ademas, dictaremos un minicurso aplicado donde YYYYYY .
 
 ## 🗓️ Detalles Clave
 * **Fecha:** Viernes, 28 de agosto de 2026
 * **Horario:** 09:00 - 17:00 hrs
-* **Lugar:** Campus San Joaquín, Pontificia Universidad Católica de Chile (UC)
+* **Lugar:** Auditorio Ninoslav Bralić, Campus San Joaquín, Pontificia Universidad Católica de Chile (UC)
 
 ## 📝 Inscripción
 Los cupos son limitados. Asegura tu lugar completando el formulario:
