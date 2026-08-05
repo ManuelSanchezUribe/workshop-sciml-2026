@@ -4,7 +4,9 @@ description: Workshop organizado por CENIA-RL4
 # theme: jekyll-theme-modernist 
 # theme: jekyll-theme-architect
 # theme: jekyll-theme-minimal
-theme: jekyll-theme-minima
+# theme: jekyll-theme-minima
+
+remote_theme: "jekyll/minima@1e8a445"
 # theme: jekyll-theme-TeXt
 # Metadatos del Evento y SEO (Ideal para cuando compartas el link por WhatsApp o Correo)
 author: "Manuel A. Sánchez"
