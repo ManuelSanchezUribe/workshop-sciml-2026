@@ -24,14 +24,14 @@ Los cupos son limitados. Asegura tu lugar completando el formulario:
 | **10:30 - 11:00** | *Coffee Break*  | Espacio para interactuar con expositores |
 | **11:00 - 11:30** | **Charla 2 Inv. RL4**  |  |
 | **11:30 - 12:00** | **Charla 3 Inv. RL4**  |  |
-| **12:00 - 12:20** | **Charla Oportunidades de Investigación RL4**  |  |
+| **12:00 - 12:30** | **Charla Oportunidades de Investigación RL4**  |  |
 | **12:30 - 13:30** | *Almuerzo* | - |
 | **13:30 - 15:00** | **Minicurso:**  | Prof. Benjamín Herrmann|
-| **15:00 - 15:00** | *Coffee Break* | - |
-| **15:00 - 15:30** | **Charla 4 Inv. RL4** |  |
-| **15:30 - 16:00** | **Charla 5 Inv. RL4** |  |
-| **16:00 - 16:30** | **Charla Estudiantes** |  |
-| **16:30 - 16:45** | **Cierre y Conclusiones** | Próximos pasos y cierre del evento. |
+| **15:00 - 13:00** | *Coffee Break* | - |
+| **15:30 - 16:00** | **Charla 4 Inv. RL4** |  |
+| **16:00 - 16:30** | **Charla 5 Inv. RL4** |  |
+| **16:30 - 17:00** | **Charla Estudiantes** |  |
+| **17:00 - 17:15** | **Cierre y Conclusiones** | Próximos pasos y cierre del evento. |
 
 ---
 
