@@ -52,6 +52,6 @@ https://sites.google.com/ing.puc.cl/wosciml2022/home
 
 <div align="center">
   <img src="assets/Logo%203.png" alt="Logo UC" height="80" style="margin-right: 40px;">
-  <img src="assets/UC%20COLOR-01.png" alt="Logo CENIA" height="80">
+  <img src="assets/UC COLOR-01.png" alt="Logo CENIA" height="80">
 </div>
 <br>
