@@ -20,17 +20,17 @@ Los cupos son limitados. Asegura tu lugar completando el formulario:
 | :--- | :--- | :--- |
 | **09:00 - 09:15** | Palabras de Apertura | Bienvenida e introducción de la linea RL4 de Cenia. |
 | **09:15 - 10:00** | **Charla Keynote:**  |  |
-| **10:00 - 10:30** | **Charla 1: Carlos Sing-Long** (Inv. RL4 CENIA, UC) |  |
+| **10:00 - 10:30** | **Charla 1: Carlos Sing-Long** (Inv. RL4 CENIA, UC) | Solving ill-posed inverse problems with inVAErt networks |
 | **10:30 - 11:00** | *Coffee Break*  | Espacio para interactuar con expositores |
-| **11:00 - 11:30** | **Charla 2: Francisco Sahli** (Inv. RL4 CENIA, UC) |  |
-| **11:30 - 12:00** | **Charla 3: Federico Fuentes** (Inv. RL4 CENIA, UC) |  |
+| **11:00 - 11:30** | **Charla 2: Francisco Sahli** (Inv. RL4 CENIA, UC) | Physics-informed neural networks for cardiovascular digital twins |
+| **11:30 - 12:00** | **Charla 3: Federico Fuentes** (Inv. RL4 CENIA, UC) | An r-adaptive finite element method using neural networks for parametric self-adjoint elliptic problems |
 | **12:00 - 12:30** | **Charla Oportunidades de Investigación RL4**  |  |
 | **12:30 - 13:30** | *Almuerzo* | - |
 | **13:30 - 15:00** | **Minicurso: Prof. Benjamín Herrmann, Camila Olavarría y Gabriel Aguayo**  | Sensado de campos espaciotemporales a partir de sensores escasos y puntuales: un tutorial|
 | **15:00 - 13:00** | *Coffee Break* | - |
 | **15:30 - 16:00** | **Charla 4: Pedro Saa** (Inv. RL4 CENIA, UC) | Aprendizaje informado por modelos físicos aplicado a la simulación de bioprocesos |
 | **16:00 - 16:30** | **Charla 5: Juan Jose Molina** (Inv. CENIA) |  |
-| **16:30 - 17:00** | **Charla Estudiantes** | **Gabriel Miranda**, **Tabita Cabalán**  |
+| **16:30 - 17:00** | **Charla Estudiantes** | **Gabriel Miranda**, **Tabita Cabalán** |
 | **17:00 - 17:15** | **Cierre y Conclusiones** | Próximos pasos y cierre del evento. |
 
 ---
