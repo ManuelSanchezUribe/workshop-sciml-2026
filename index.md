@@ -1,7 +1,7 @@
 ## Workshop on Scientific Machine Learning
 
 ###  Sobre el Evento
-Este workshop de un día está diseñado para estudiantes interesados en investigación en el área de **Scientific Machine Learning (SciML)**. Contaremos con la participación de destacados investigadores y colaboradores de la línea de investigación **RL4 Aprendizaje Basado en la Física** del **Centro Nacional de Inteligencia Artificial (CENIA)**, quienes presentarán avances recientes. Ademas, dictaremos un minicurso aplicado sobre YYYYYY .
+Este workshop de un día está diseñado para estudiantes interesados en investigación en el área de **Scientific Machine Learning (SciML)**. Contaremos con la participación de destacados investigadores y colaboradores de la línea de investigación **RL4 Aprendizaje Basado en la Física** del **Centro Nacional de Inteligencia Artificial (CENIA)**, quienes presentarán avances recientes. Ademas, dictaremos un minicurso titulado: Sensado de campos espacio temporales a partir de sensores escasos y puntuales: un tutorial.
 
 ## 🗓️ Detalles Clave
 * **Fecha:** Viernes, 28 de agosto de 2026
@@ -26,10 +26,10 @@ Los cupos son limitados. Asegura tu lugar completando el formulario:
 | **11:30 - 12:00** | **Charla 3: Federico Fuentes** (Inv. RL4 CENIA, UC) | An r-adaptive finite element method using neural networks for parametric self-adjoint elliptic problems |
 | **12:00 - 12:30** | **Charla Oportunidades de Investigación RL4**  |  |
 | **12:30 - 13:30** | *Almuerzo* | - |
-| **13:30 - 15:00** | **Minicurso: Prof. Benjamín Herrmann, Camila Olavarría y Gabriel Aguayo**  | Sensado de campos espaciotemporales a partir de sensores escasos y puntuales: un tutorial|
-| **15:00 - 13:00** | *Coffee Break* | - |
+| **13:30 - 15:00** | **Minicurso: Prof. Benjamín Herrmann, Camila Olavarría y Gabriel Aguayo**  | Sensado de campos espacio temporales a partir de sensores escasos y puntuales: un tutorial|
+| **15:00 - 13:00** | *Coffee Break* | Espacio para interactuar con expositores |
 | **15:30 - 16:00** | **Charla 4: Pedro Saa** (Inv. RL4 CENIA, UC) | Aprendizaje informado por modelos físicos aplicado a la simulación de bioprocesos |
-| **16:00 - 16:30** | **Charla 5: Juan Jose Molina** (Inv. CENIA) |  |
+| **16:00 - 16:30** | **Charla 5: Juan Jose Molina** (Inv. CENIA) |  Operator-informed initialization for Fourier features physics-informed neural networks |
 | **16:30 - 17:00** | **Charla Estudiantes** | **Gabriel Miranda**, **Tabita Cabalán**, **Ignacio Tapia** |
 | **17:00 - 17:15** | **Cierre y Conclusiones** | Próximos pasos y cierre del evento. |
 
