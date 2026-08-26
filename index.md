@@ -19,7 +19,7 @@ Los cupos son limitados. Asegura tu lugar completando el formulario:
 | Hora | Actividad | Detalle |
 | :--- | :--- | :--- |
 | **09:00 - 09:15** | Palabras de Apertura | Bienvenida e introducción de la linea RL4 de Cenia. |
-| **09:15 - 10:00** | **Charla Keynote:**  |  |
+| **09:15 - 10:00** | **Charla Keynote: Felipe Galarce (PUCV, CID3B)**  | Asimilaciòn de datos y reducciòn de modelos aplicada a flujos sanguineos |
 | **10:00 - 10:30** | **Charla 1: Carlos Sing-Long** (Inv. RL4 CENIA, UC) | Solving ill-posed inverse problems with inVAErt networks |
 | **10:30 - 11:00** | *Coffee Break*  | Espacio para interactuar con expositores |
 | **11:00 - 11:30** | **Charla 2: Francisco Sahli** (Inv. RL4 CENIA, UC) | Physics-informed neural networks for cardiovascular digital twins |
@@ -30,10 +30,13 @@ Los cupos son limitados. Asegura tu lugar completando el formulario:
 | **15:00 - 13:00** | *Coffee Break* | - |
 | **15:30 - 16:00** | **Charla 4: Pedro Saa** (Inv. RL4 CENIA, UC) | Aprendizaje informado por modelos físicos aplicado a la simulación de bioprocesos |
 | **16:00 - 16:30** | **Charla 5: Juan Jose Molina** (Inv. CENIA) |  |
-| **16:30 - 17:00** | **Charla Estudiantes** | **Gabriel Miranda**, **Tabita Cabalán** |
+| **16:30 - 17:00** | **Charla Estudiantes** | **Gabriel Miranda**, **Tabita Cabalán**, **Ignacio Tapia** |
 | **17:00 - 17:15** | **Cierre y Conclusiones** | Próximos pasos y cierre del evento. |
 
 ---
+
+## Charla Keynote, abstract
+Las enfermedades cardiovasculares suponen una de las primeras causas de muerte a nivel mundial. El estudio de flujos sanguineos a traves de estrategias propias de la mecánica computacional y aprendizaje de máquinas dan lugar a herramientas de diagnóstico, seguimiento y tratamiento de patol´ogias que involucran alteraciones en la dinámica normal de la sangre. Este trabajo relata una serie de contribuciones alrededor de esta idea, en donde se integran modelos de alta fidelidad con im´agenes m´edicas que otorgan acceso parcial a la velocidad de la sangre en distantas regiones del sistema cardiovascular. Buscamos entonces la construccion de métodos robustos que sean capaces de predecir cantidades de interés para la comunidad biomédica, utilizando técnicas de reducción de modelos, redes neuronales y métodos variacionales.
 
 ## 💻 Preparación para el Minicurso
 Para la sesión de la tarde se requiere traer computador personal. Trabajaremos en **Jupyter Notebooks**. Los materiales y códigos base estarán disponibles en la carpeta `notebooks` de este mismo repositorio. 
