@@ -39,9 +39,9 @@ Los cupos son limitados. Asegura tu lugar completando el formulario:
 Las enfermedades cardiovasculares suponen una de las primeras causas de muerte a nivel mundial. El estudio de flujos sanguineos a traves de estrategias propias de la mecánica computacional y aprendizaje de máquinas dan lugar a herramientas de diagnóstico, seguimiento y tratamiento de patol´ogias que involucran alteraciones en la dinámica normal de la sangre. Este trabajo relata una serie de contribuciones alrededor de esta idea, en donde se integran modelos de alta fidelidad con im´agenes m´edicas que otorgan acceso parcial a la velocidad de la sangre en distantas regiones del sistema cardiovascular. Buscamos entonces la construccion de métodos robustos que sean capaces de predecir cantidades de interés para la comunidad biomédica, utilizando técnicas de reducción de modelos, redes neuronales y métodos variacionales.
 
 ## 💻 Preparación para el Minicurso
-Para la sesión de la tarde se requiere traer computador personal. Trabajaremos en **Jupyter Notebooks**. Los materiales y códigos base estarán disponibles en la carpeta `notebooks` de este mismo repositorio. 
+Para la sesión de la tarde se requiere traer computador personal. Trabajaremos en **Jupyter Notebooks/Colab**. Los materiales estan disponible en el siguiente link
 
-Se recomienda tener instaladas las librerías científicas DEFINIR de Python antes del evento.
+[**👉 Tutorial**](https://colab.research.google.com/drive/1V_95xC4KmYW45Yt6aYU5Slh74kEuhp72?usp=sharing)
 
 
 
